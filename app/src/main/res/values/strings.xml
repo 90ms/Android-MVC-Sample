@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android-mvp-sample</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Log in</string>
+
+    <string name="description_tmp">Please answer the questions below.</string>
+    <string name="description_question">What does the current project want to show?</string>
+
+    <string name="description_mvc">
+        Model–view–controller (usually known as MVC) is a software design pattern[1] commonly used for developing user interfaces that divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.[2][3] This kind of pattern is used for designing the layout of the page.
+    </string>
+
+    <string name="button_click">click</string>
+</resources>
